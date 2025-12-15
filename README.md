@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
+| [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
