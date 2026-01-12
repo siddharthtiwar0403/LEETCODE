@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0048-rotate-image) |
+| [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/siddharthtiwar0403/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
